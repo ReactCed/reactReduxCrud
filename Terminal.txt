@@ -134,3 +134,13 @@ STEP 9: UNDERSTAND THE ALGORITHM OF THE "store.ts" AND THOSE FILE IN THE COUNTER
 STEP 10: RUN THE PROJECT
 
 - npm run dev
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+THIS LAST NOTE IS NOT FOR REACT REDUX THIS IS FOR EVERY PROJECT THAT I WILL MAKE 
+
+- When the project is finish develop then analyze it to codex the integrated ai assistant in your vs code type this command
+
+- analyze my project and fix any bugs you see and enhance what should be enhance so that i can deploy it in production
+OR
+- Conduct a full-stack technical review of my project, identify and resolve existing bugs, optimize the architecture, and implement necessary enhancements to ensure the application is production-ready, scalable, secure, and performant before deployment.
