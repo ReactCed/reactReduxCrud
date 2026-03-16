@@ -6,9 +6,16 @@ STEP 1: OPEN TERMINAL AND TYPE THIS
 - select: typescript or javascript
 - cd client
 - npm install axios react-router-dom sweetalert2 jwt-decode bootstrap dotenv @supabase/supabase-js @reduxjs/toolkit react-redux 
+
+THIS IS FOR OLD VITE VERSION
 - npm install tailwindcss @tailwindcss/vite
 
+THIS IS FOR VITE LATEST
+- npm install -D tailwindcss@latest
+
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+THIS IS FOR OLD VITE VERSION
 
 STEP 2: GO TO THE "vite.config.ts" AND THEN COPY THIS CODE
 
@@ -49,6 +56,7 @@ AND COPY AND PASTE THIS CODE IN THE tsconfig.json
   }
 }
 
+THIS IS FOR VITE LATEST
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
