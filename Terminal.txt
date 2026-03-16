@@ -22,7 +22,6 @@ export default defineConfig({
     host: true, // Optional: for allowing access from the network
     port: 3000,
     open: true, // Optional: open the browser automatically
-    historyApiFallback: true,
   }
 })
 
@@ -72,10 +71,6 @@ ADD TAILWIND TO src/index.css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-IMPORT CSS IN main.jsx / main.tsx
-
-import './index.css'
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
