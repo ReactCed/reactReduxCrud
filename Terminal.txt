@@ -6,7 +6,7 @@ STEP 1: OPEN TERMINAL AND TYPE THIS
 - select: typescript or javascript
 - cd client
 - npm install axios react-router-dom sweetalert2 jwt-decode bootstrap dotenv @supabase/supabase-js @reduxjs/toolkit react-redux 
-- npm install -D tailwindcss@latest
+- npm install -D @tailwindcss/postcss
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,11 +43,10 @@ CREATE postcss.config.js
 
 export default {
   plugins: {
-    tailwindcss: {},
+    "@tailwindcss/postcss": {},
     autoprefixer: {},
   },
 }
-
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 STEP 3: RIGHT CLICK THE "client" FOLDER AND THEN OPEN INTEGRATED TERMINAL AND PASTE THIS COMMAND
