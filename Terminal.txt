@@ -6,59 +6,11 @@ STEP 1: OPEN TERMINAL AND TYPE THIS
 - select: typescript or javascript
 - cd client
 - npm install axios react-router-dom sweetalert2 jwt-decode bootstrap dotenv @supabase/supabase-js @reduxjs/toolkit react-redux 
-
-THIS IS FOR OLD VITE VERSION
-- npm install tailwindcss @tailwindcss/vite
-
-THIS IS FOR VITE LATEST
 - npm install -D tailwindcss@latest
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-THIS IS FOR OLD VITE VERSION
-
 STEP 2: GO TO THE "vite.config.ts" AND THEN COPY THIS CODE
-
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
-import path from 'path'
-
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [react(), tailwindcss()],
-  server: {
-    host: true, // Optional: for allowing access from the network
-    port: 3000,
-    open: true, // Optional: open the browser automatically
-  },
-  resolve: {
-    alias: {
-      '@': path.resolve(__dirname, './src'),
-    },
-  }
-})
-
-AND COPY AND PASTE THIS CODE IN THE tsconfig.json
-
-{
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ],
-
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  }
-}
-
-THIS IS FOR VITE LATEST
-
-"vite.config.ts"
 
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
@@ -74,7 +26,7 @@ export default defineConfig({
   }
 })
 
-Create tailwind.config.js
+CREATE tailwind.config.js
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -88,7 +40,7 @@ export default {
   plugins: [],
 }
 
-Create postcss.config.js
+CREATE postcss.config.js
 
 export default {
   plugins: {
@@ -115,21 +67,13 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 
-THIS IS FOR OLD VITE VERSION
-
-AND COPY AND PASTE THIS CODE IN THE index.css
-
-@import "tailwindcss";
-
-THIS IS FOR VITE LATEST
-
-Add Tailwind to src/index.css
+ADD TAILWIND TO src/index.css
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-Import CSS in main.jsx / main.tsx
+IMPORT CSS IN main.jsx / main.tsx
 
 import './index.css'
 
