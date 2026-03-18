@@ -6,7 +6,7 @@ STEP 1: OPEN TERMINAL AND TYPE THIS
 - select: typescript or javascript
 - cd client
 - npm install axios react-router-dom sweetalert2 jwt-decode bootstrap dotenv @supabase/supabase-js @reduxjs/toolkit react-redux 
-- npm install -D @tailwindcss/postcss
+- npm install -D autoprefixer @tailwindcss/postcss
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
