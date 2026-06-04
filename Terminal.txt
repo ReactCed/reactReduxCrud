@@ -135,6 +135,16 @@ STEP 10: RUN THE PROJECT
 - npm run dev
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+THIS IS FOR CREATING A USER STORIES FOR A PROJECT
+
+- Create a user stories in the given text make it sort from easiest to hardest from the start of the development until the end make it even
+a dumb person can understand
+
+OR
+
+- Create clear and simplified user stories based on the provided requirements. Organize them in a logical development sequence, starting from the easiest and most foundational tasks and progressing to the most complex features. Ensure each user story is written in simple, easy-to-understand language so that even non-technical stakeholders can easily follow the development flow from start to finish.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 THIS LAST NOTE IS NOT FOR REACT REDUX THIS IS FOR EVERY PROJECT THAT I WILL MAKE 
 
