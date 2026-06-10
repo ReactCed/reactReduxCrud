@@ -138,11 +138,11 @@ STEP 10: RUN THE PROJECT
 THIS IS FOR CREATING A USER STORIES FOR A PROJECT
 
 - Create a user stories in the given text make it sort from easiest to hardest from the start of the development until the end make it even
-a dumb person can understand
+a dumb person can understand and add where the users click
 
 OR
 
-- Create clear and simplified user stories based on the provided requirements. Organize them in a logical development sequence, starting from the easiest and most foundational tasks and progressing to the most complex features. Ensure each user story is written in simple, easy-to-understand language so that even non-technical stakeholders can easily follow the development flow from start to finish.
+- Analyze the provided requirements and convert them into structured User Stories, ordered from the simplest implementation tasks to the most complex, following the recommended development sequence from project initiation through completion. For each User Story, include clear acceptance criteria, user actions, navigation paths, and exact UI interaction points (e.g., buttons, menus, forms, tabs, and pages the user clicks). Write the stories in a clear, non-technical, user-friendly format that can be easily understood by non-technical stakeholders while maintaining sufficient detail for developers, QA testers, and project managers.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
