@@ -138,7 +138,7 @@ STEP 10: RUN THE PROJECT
 THIS IS FOR CREATING A USER STORIES FOR A PROJECT
 
 - Create a user stories in the given text make it sort from easiest to hardest from the start of the development until the end make it even
-a dumb person can understand and add where the users click it make it (User Stories, Steps to Complete, Acceptance Criteria)
+a dumb person can understand and add where the users click it make it (User Stories, Task To Do, Acceptance Criteria)
 
 OR
 
