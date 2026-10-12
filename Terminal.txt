@@ -155,3 +155,13 @@ OR
 - Conduct a full-stack technical review of my project, identify and resolve existing bugs, optimize the architecture, and implement necessary enhancements to ensure the application is production-ready, scalable, secure, and performant before deployment.
 
 - Act as a Senior Full Stack Developer and perform a comprehensive analysis of the entire project architecture, codebase, and system workflow. Identify, troubleshoot, and resolve all existing bugs, errors, performance bottlenecks, and code inconsistencies across both the frontend and backend. Refactor and optimize the application to follow industry best practices, improve maintainability, scalability, security, and overall system performance. Enhance the UI/UX design, responsiveness, component structure, API handling, database interactions, validation flows, and business logic implementation where necessary. Apply clean architecture principles, optimize queries and state management, improve error handling and logging, and ensure the system is production-ready with a more efficient, modern, and user-friendly experience.
+
+OR
+
+- Act as a senior full-stack developer. Audit this project and:
+
+1. Fix all bugs and recurring errors.
+2. Correct all routing and endpoint mappings so no HTTP status errors (404, 405, 500, etc.) occur.
+3. Add proper error handling and input validation.
+4. Optimize performance and apply security best practices.
+5. Refactor for readability and maintainability.
