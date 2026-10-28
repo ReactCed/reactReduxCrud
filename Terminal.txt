@@ -166,3 +166,11 @@ OR
 3. Add proper error handling and input validation.
 4. Optimize performance and apply security best practices.
 5. Refactor for readability and maintainability.
+
+=================================================================================================================================================================
+
+THIS IS FOR PRODUCTION IMAGE CREATION USING AI PROMPT
+
+- Using the two provided images, create a product mockup design. Display the first image on a laptop screen and the second image on a smartphone screen, similar to a typical system or app showcase mockup. Use a black base for the background, with neon accents (glowing lines, gradients, or light effects) as the secondary style.
+
+=== As the given 2 image create a design that this 2 image is in the laptop and the other one is in the phone like you can see in every system production design and on the background of the laptop and phone is (Main Color: Black, Side Color/Style/Design: Neon colors).
